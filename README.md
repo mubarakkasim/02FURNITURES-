@@ -11,6 +11,9 @@ A simple and efficient web-based application for browsing, selecting, and orderi
 
 💬 User-friendly alerts and redirection after cart actions
 
+
+
+
 🧰 Tech Stack
 Frontend: HTML5, CSS3, Bootstrap (if included)
 
@@ -20,6 +23,8 @@ Database: MySQL
 
 Session Handling: PHP $_SESSION for cart state
 
+
+
 ⚙️ How to Set Up
 Clone or Download the repository.
 
@@ -28,4 +33,11 @@ Import the database using the .sql file (not uploaded here).
 Update the database credentials in includes/config.php.
 
 Run the project on a local server (XAMPP, WAMP, etc.).
+
+
+
+
+if you need the login details for the admin section and any other questions contact me  
+khankingmubcy@gmail.com
++2349068500544 for whatsapp
 
